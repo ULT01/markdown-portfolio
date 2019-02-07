@@ -1,1 +1,3 @@
-Hockey, Soccer, Basketball
+- Hockey
+- Soccer
+- Basketball
